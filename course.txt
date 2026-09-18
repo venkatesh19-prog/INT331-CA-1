@@ -1,3 +1,5 @@
+<<<<<<< HEAD
 Devops - enrollment in skill development course
 c++ - enrollment in neocolab
 java- enrollment in codetantra
+>>>>>>> feature-enrollment
