@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-Devops - enrollment in skill development course
-c++ - enrollment in neocolab
-java- enrollment in codetantra
->>>>>>> feature-enrollment
+Devops - enrollment in skill development course - 1000
+c++ - enrollment in neocolab -1500
+java- enrollment in codetantra -2000
+>>>>>>> feature-payment
